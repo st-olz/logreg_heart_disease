@@ -20,4 +20,4 @@ There are 14 attributes we will consider in our model:
 - thal: a blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
 - num: diagnosis of heart disease, angiographic disease status (0:< 50% diameter narrowing, 1-4: > 50% diameter narrowing)
 
-
+The procedure is described in the attached notebook [classifying_heart_disease.ipynb ](/classifying_heart_disease.ipynb ).
